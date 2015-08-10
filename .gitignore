@@ -2,3 +2,4 @@
 .chef
 cookbooks
 Berksfile.lock
+*.zip
