@@ -1,6 +1,9 @@
 *~
 .chef
-cookbooks
+scripts/
+Berksfile
+solo/
+.gitignore
 Berksfile.lock
 *.zip
 mynode.json
