@@ -3,3 +3,5 @@
 cookbooks
 Berksfile.lock
 *.zip
+mynode.json
+site-cookbooks/*

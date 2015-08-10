@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Purpose
 =======
 
@@ -64,3 +65,7 @@ wget -O - https://github.com/nectar-cookbooks/chef-solo-repo/raw/master/scripts/
 ```
 
 scripts/bootstrap-nectar.sh
+=======
+# chef-cookbooks
+chef training cookbooks
+>>>>>>> 9da2b98828733513774cb5003cb9800f39ff50f9
